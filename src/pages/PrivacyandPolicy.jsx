@@ -57,6 +57,7 @@ const PrivacyAndPolicy = () => {
                   <li>Full Name</li>
                   <li>Email Address</li>
                   <li>Phone Number</li>
+                  <li>Gender (For Calorie calculations)</li>
                   <li>Date of Birth (Optional)</li>
                   <li>City and Zip Code (For Providing offers for specific locations.)</li>
                 </ul>

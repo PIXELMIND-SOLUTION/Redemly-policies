@@ -51,7 +51,7 @@ const TermsAndConditions = () => {
                   When creating an account on Redemly, users are required to
                   provide accurate information including their{" "}
                   <strong>
-                    Full Name, Email Address, Phone Number, City, Zipcode, and
+                    Full Name, Email Address, Phone Number, City, Zipcode, Gender (For Calorie calculations) and
                     Date of Birth (Optional)
                   </strong>
                   . These details help us personalize offers, manage user
