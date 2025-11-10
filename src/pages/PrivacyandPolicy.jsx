@@ -7,7 +7,17 @@ const PrivacyAndPolicy = () => {
         <div className="col-lg-10 col-md-11 col-12">
           {/* Header */}
           <div className="text-center mb-5">
-            <h1 className="display-4 fw-bold text-primary mb-3">Privacy Policy</h1>
+            <h1
+              className="display-4 fw-bold mb-3"
+              style={{
+                background: "linear-gradient(135deg, #ff6a00, #ff2d55)",
+                WebkitBackgroundClip: "text",
+                WebkitTextFillColor: "transparent",
+              }}
+            >
+              Privacy Policy
+            </h1>
+
             <p className="text-muted">Effective Date: 05/11/2025</p>
             <div
               className="divider mx-auto bg-gradient-primary"
