@@ -57,8 +57,8 @@ const PrivacyAndPolicy = () => {
                   <li>Full Name</li>
                   <li>Email Address</li>
                   <li>Phone Number</li>
-                  <li>Date of Birth (for age verification and personalized offers)</li>
-                  <li>City and Zip Code</li>
+                  <li>Date of Birth (Optional)</li>
+                  <li>City and Zip Code (For Providing offers for specific locations.)</li>
                 </ul>
 
                 <h6 className="fw-semibold mt-3">b. App Activity Data</h6>
@@ -71,7 +71,7 @@ const PrivacyAndPolicy = () => {
                 <h6 className="fw-semibold mt-3">c. Device and Location Data</h6>
                 <ul className="list-styled">
                   <li>Device model, OS version, app usage analytics</li>
-                  <li>Approximate location for nearby vendor recommendations</li>
+                  <li>Precise location for nearby vendor recommendations</li>
                 </ul>
               </div>
             </div>
@@ -83,7 +83,6 @@ const PrivacyAndPolicy = () => {
                   <span className="number-badge me-3">3</span> How We Use Your Information
                 </h4>
                 <ul className="list-styled">
-                  <li>To verify your identity and eligibility (e.g., age 18+)</li>
                   <li>To deliver personalized coupons and local offers</li>
                   <li>To manage your spins, rewards, and quiz points</li>
                   <li>To improve app features and user experience</li>
@@ -102,7 +101,6 @@ const PrivacyAndPolicy = () => {
                 <ul className="list-styled">
                   <li>Verified vendors for coupon redemption</li>
                   <li>Analytics tools for performance tracking</li>
-                  <li>Payment partners for secure transactions (if applicable)</li>
                 </ul>
                 <p className="mt-3">
                   We <strong>never sell</strong> user data to third parties.

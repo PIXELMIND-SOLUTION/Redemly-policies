@@ -52,7 +52,7 @@ const TermsAndConditions = () => {
                   provide accurate information including their{" "}
                   <strong>
                     Full Name, Email Address, Phone Number, City, Zipcode, and
-                    Date of Birth
+                    Date of Birth (Optional)
                   </strong>
                   . These details help us personalize offers, manage user
                   accounts, and connect users with nearby vendors.
@@ -72,8 +72,7 @@ const TermsAndConditions = () => {
                 </h4>
                 <ul className="list-styled">
                   <li>
-                    Spin the wheel to earn Redemly coins, vendor coupons, or
-                    exciting prizes.
+                    Spin the wheel to earn Redemly coins (Unlimites Spins for Now.), vendor coupons.
                   </li>
                   <li>
                     Participate in quizzes to earn extra points, explore fun facts, and read quick
@@ -145,7 +144,7 @@ const TermsAndConditions = () => {
                     specified.
                   </li>
                   <li>
-                    Coins and coupons can only be transferred on APP.
+                    Coins can only be transferred on APP.
                   </li>
                   <li>
                     Redemly reserves the right to modify reward rules or expiry
