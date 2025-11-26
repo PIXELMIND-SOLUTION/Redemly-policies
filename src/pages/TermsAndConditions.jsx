@@ -209,7 +209,7 @@ const TermsAndConditions = () => {
                   and Conditions, please contact us:
                 </p>
                 <ul className="list-styled">
-                  <li>📧 Email: shivak1811@gmail.com</li>
+                  <li>📧 Email: support.redemly@gmail.com</li>
                   <li>📞 Phone: +91-9666317749</li>
                 </ul>
               </div>

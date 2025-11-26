@@ -142,10 +142,10 @@ const PrivacyAndPolicy = () => {
                   <p className="mb-0">
                     For Enquiries, contact us at:{" "}
                     <a
-                      href="mailto:shivak1811@gmail.com?subject=Account%20Deletion%20Request"
+                      href="mailto:support.redemly@gmail.com?subject=Account%20Deletion%20Request"
                       className="fw-semibold text-decoration-none"
                     >
-                      shivak1811@gmail.com
+                      support.redemly@gmail.com
                     </a>
                   </p>
                 </div>
@@ -172,7 +172,7 @@ const PrivacyAndPolicy = () => {
                   <span className="number-badge me-3">8</span> Contact Us
                 </h4>
                 <ul className="list-styled">
-                  <li>📧 Email: shivak1811@gmail.com</li>
+                  <li>📧 Email: support.redemly@gmail.com</li>
                   <li>📞 Phone: +91-9666317749</li>
                 </ul>
               </div>

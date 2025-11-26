@@ -4,7 +4,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 const Support = () => {
   const supportData = {
     companyName: "Redemly",
-    email: "shivak1811@gmail.com",
+    email: "support.redemly@gmail.com",
     mobile: "+91 9666317749",
     logo: "/logo.png",
   };
