@@ -471,8 +471,8 @@ const TermsAndConditions = () => {
                   </li>
                   {/* <li>
                     📧 Legal:{" "}
-                    <a href="mailto:legal@Redemly.com" style={{ color: "#ff6a00" }}>
-                      legal@Redemly.com
+                    <a href="mailto:support@redemly.com" style={{ color: "#ff6a00" }}>
+                      support@redemly.com
                     </a>
                   </li> */}
                   <li>📮 Address: Plot No 63, Sri Residency, 1st Floor 101, KPHB 5th Phase, Kukatpally, Hyderabad, Telangana 500085</li>

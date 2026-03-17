@@ -362,11 +362,11 @@ const PrivacyAndPolicy = () => {
                   <p className="mb-0">
                     To exercise your rights, email us at:{" "}
                     <a
-                      href="mailto:privacy@Redemly.com"
+                      href="mailto:support@redemly.com"
                       className="fw-semibold text-decoration-none"
                       style={{ color: "#ff6a00" }}
                     >
-                      privacy@Redemly.com
+                      support@redemly.com
                     </a>
                   </p>
                   <p className="mb-0 mt-2 text-muted small">
@@ -514,8 +514,8 @@ const PrivacyAndPolicy = () => {
                   <span className="number-badge me-3">17</span> Contact Us
                 </h4>
                 <ul className="list-styled">
-                  {/* <li>📧 Privacy Inquiries: <a href="mailto:privacy@Redemly.com" style={{ color: "#ff6a00" }}>privacy@Redemly.com</a></li> */}
-                  <li>📧 Support: <a href="mailto:support@Redemly.com" style={{ color: "#ff6a00" }}>support@Redemly.com</a></li>
+                  {/* <li>📧 Privacy Inquiries: <a href="mailto:support@redemly.com" style={{ color: "#ff6a00" }}>support@redemly.com</a></li> */}
+                  <li>📧 Support: <a href="mailto:support@redemly.com" style={{ color: "#ff6a00" }}>support@redemly.com</a></li>
                   <li>📮 Mailing Address: Redemly, Inc., Plot No 63, Sri Residency, 1st Floor 101, KPHB 5th Phase, Kukatpally, Hyderabad, Telangana 500085</li>
                 </ul>
               </div>
