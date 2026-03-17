@@ -191,7 +191,7 @@ const PrivacyAndPolicy = () => {
             </div>
 
             {/* 5. When We Share Information */}
-            <div className="policy-card card border-0 shadow-sm mb-4">
+            {/* <div className="policy-card card border-0 shadow-sm mb-4">
               <div className="card-body p-4">
                 <h4 className="mb-3 d-flex align-items-center">
                   <span className="number-badge me-3">5</span> When We Share Information
@@ -219,7 +219,100 @@ const PrivacyAndPolicy = () => {
                 <h6 className="fw-semibold mt-3">E. Business Transfers</h6>
                 <p>In connection with a merger, acquisition, or sale of assets.</p>
               </div>
-            </div>
+            </div> */}
+
+            <div className="policy-card card border-0 shadow-sm mb-4">
+  <div className="card-body p-4">
+    <h4 className="mb-3 d-flex align-items-center">
+      <span className="number-badge me-3">5</span>
+      Buzz/News Content & Copyright Policy
+    </h4>
+
+    {/* A */}
+    <h6 className="fw-semibold mt-3">A. Nature of News Content</h6>
+    <p>
+      Redemly provides short summaries of publicly available news articles
+      sourced from third-party publishers. Redemly does not claim ownership
+      of any third-party news content referenced or linked within the app.
+      All news summaries are created for informational, educational,
+      storytelling and commentary purposes.
+    </p>
+
+    {/* B */}
+    <h6 className="fw-semibold mt-3">B. Transformative Summaries</h6>
+    <p>
+      Content displayed in the News section consists of original summaries
+      written by Redemly based on publicly available reporting from
+      third-party publishers. Redemly does not reproduce full articles or
+      substantial portions of copyrighted works.
+    </p>
+    <p>
+      Users are encouraged to read the original article through the provided
+      source link.
+    </p>
+
+    {/* C */}
+    <h6 className="fw-semibold mt-3">C. Attribution & Source Linking</h6>
+    <ul className="list-styled">
+      <li>The name of the original publisher</li>
+      <li>A link to the full article when available</li>
+    </ul>
+    <p>
+      All trademarks, logos, and brand names belong to their respective owners.
+    </p>
+
+    {/* D */}
+    <h6 className="fw-semibold mt-3">D. No Affiliation or Endorsement</h6>
+    <p>
+      Redemly is not affiliated with, endorsed by, or sponsored by any news
+      publisher unless explicitly stated. Displaying a publisher name or link
+      does not imply partnership.
+    </p>
+
+    {/* E */}
+    <h6 className="fw-semibold mt-3">
+      E. Copyright Complaints & Takedown Requests
+    </h6>
+    <p>
+      Redemly respects the intellectual property rights of others. If you
+      believe that any content within the app infringes your copyright,
+      please contact us with:
+    </p>
+    <ul className="list-styled">
+      <li>Your name and contact information</li>
+      <li>Identification of the copyrighted work</li>
+      <li>The URL or screenshot of the content in question</li>
+      <li>A statement that you believe the use is unauthorized</li>
+    </ul>
+    <p>
+      Upon receiving a valid request, Redemly will promptly review and remove
+      or modify the content as appropriate.
+    </p>
+    <p>
+      <strong>Contact email:</strong> support@redemly.com
+    </p>
+
+    {/* F */}
+    <h6 className="fw-semibold mt-3">F. Content Accuracy Disclaimer</h6>
+    <ul className="list-styled">
+      <li>
+        News summaries are provided for convenience and general informational
+        purposes only.
+      </li>
+      <li>News may be sourced from third parties, APIs, or automated systems.</li>
+      <li>We do not verify, endorse, or guarantee accuracy.</li>
+      <li>Content may be outdated, incomplete, or incorrect.</li>
+      <li>Not professional, financial, legal, or medical advice.</li>
+    </ul>
+
+    {/* G */}
+    <h6 className="fw-semibold mt-3">G. Changes to News Content</h6>
+    <p>
+      Redemly may update, modify, or remove news content at any time without
+      notice.
+    </p>
+  </div>
+</div>
 
             {/* 6. Public Content */}
             <div className="policy-card card border-0 shadow-sm mb-4">
@@ -421,7 +514,7 @@ const PrivacyAndPolicy = () => {
                   <span className="number-badge me-3">17</span> Contact Us
                 </h4>
                 <ul className="list-styled">
-                  <li>📧 Privacy Inquiries: <a href="mailto:privacy@Redemly.com" style={{ color: "#ff6a00" }}>privacy@Redemly.com</a></li>
+                  {/* <li>📧 Privacy Inquiries: <a href="mailto:privacy@Redemly.com" style={{ color: "#ff6a00" }}>privacy@Redemly.com</a></li> */}
                   <li>📧 Support: <a href="mailto:support@Redemly.com" style={{ color: "#ff6a00" }}>support@Redemly.com</a></li>
                   <li>📮 Mailing Address: Redemly, Inc., Plot No 63, Sri Residency, 1st Floor 101, KPHB 5th Phase, Kukatpally, Hyderabad, Telangana 500085</li>
                 </ul>

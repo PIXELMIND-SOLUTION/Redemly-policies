@@ -348,11 +348,11 @@ const TermsAndConditions = () => {
                 <p>
                   If you believe content on Redemly infringes your copyright, send a notice to{" "}
                   <a
-                    href="mailto:copyright@Redemly.com"
+                    href="mailto:support@redemly.com"
                     className="fw-semibold text-decoration-none"
                     style={{ color: "#ff6a00" }}
                   >
-                    copyright@Redemly.com
+                    support@redemly.com
                   </a>{" "}
                   with: your contact info, description of the work, location in the app/site, a
                   good-faith statement, and your signature. We may remove content and notify the
@@ -469,12 +469,12 @@ const TermsAndConditions = () => {
                       support@Redemly.com
                     </a>
                   </li>
-                  <li>
+                  {/* <li>
                     📧 Legal:{" "}
                     <a href="mailto:legal@Redemly.com" style={{ color: "#ff6a00" }}>
                       legal@Redemly.com
                     </a>
-                  </li>
+                  </li> */}
                   <li>📮 Address: Plot No 63, Sri Residency, 1st Floor 101, KPHB 5th Phase, Kukatpally, Hyderabad, Telangana 500085</li>
                 </ul>
               </div>
